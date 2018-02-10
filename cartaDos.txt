@@ -2,10 +2,7 @@
 
 Hola!!!! (modificando el archivo)
 
-<<<<<<< HEAD
+
 nueva modificacion !!!
 =======
 reproduciendo error MGD
-
-
->>>>>>> c62cc7ee95dcb3889a045fe00fd62f280d93d9da
